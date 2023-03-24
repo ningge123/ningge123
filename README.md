@@ -1,4 +1,4 @@
-## Hi 👋, i'm cc
+## Hi 👋, i'm Jnp
 
 <img align="right" src="https://github.com/Anzz-bot/Anzz-bot/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
